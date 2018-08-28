@@ -1,0 +1,7 @@
+[name]
+classes= 1
+train  = ./src/infrared_tra.txt
+valid  = ./src/infrared_val.txt
+names =  ./src/coco.names
+backup =  ./backup/
+
